@@ -1,4 +1,3 @@
-
 # LM-Collusion
 
 ## Overview
@@ -12,6 +11,8 @@ Each firm independently decides how much to produce, adapts its strategy based o
 Interestingly, the agents often settle into stable market divisions, each controlling a different commodity, showing emergent collusive behavior even without direct communication or coordination.
 
 ---
+
+![LM-Collusion](assets/llm.png)
 
 ## Implementation Outline
 
