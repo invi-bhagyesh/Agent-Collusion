@@ -1,21 +1,18 @@
 # LM-Collusion
 
-## Overview
-
 This project explores how large language model agents behave when placed in a competitive market setting.
 
 It simulates multiple autonomous firms powered by LLMs (such as GPT-4, Claude, Gemini, and DeepSeek) competing in a two-commodity Cournot market.
-
-<p align="center">
-  <img src="assets/llm.png" alt="LM-Collusion" width="400">
-</p>
 
 Each firm independently decides how much to produce, adapts its strategy based on previous outcomes, and learns to maximize profit over repeated rounds.
 
 Interestingly, the agents often settle into stable market divisions, each controlling a different commodity, showing emergent collusive behavior even without direct communication or coordination.
 
----
+<p align="center">
+  <img src="assets/llm.png" alt="LM-Collusion" width="800">
+</p>
 
+---
 
 ## Implementation Outline
 
